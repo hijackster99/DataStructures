@@ -23,10 +23,13 @@
     <ClInclude Include="ArrayList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ArrayList.template">
+    <ClInclude Include="ArrayList_template.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="List_template.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

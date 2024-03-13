@@ -132,9 +132,10 @@
   <ItemGroup>
     <ClInclude Include="ArrayList.h" />
     <ClInclude Include="List.h" />
+    <ClInclude Include="List_template.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ArrayList.template">
+    <ClInclude Include="ArrayList_template.h">
       <FileType>Document</FileType>
     </ClInclude>
   </ItemGroup>
